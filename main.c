@@ -12,7 +12,6 @@ int main()
 
 	while (1)
 	{
-
 		sdata = Sensor(1);
 
 		ir1 = sdata.IRSensor[0];
